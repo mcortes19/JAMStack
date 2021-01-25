@@ -1,0 +1,19 @@
+{
+  "name": "JAMStack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mcortes19/JAMStack.git",
+  "author": "Marvin J. Cortés <marvin.cortes@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.31.1",
+    "gatsby-plugin-theme-ui": "^0.3.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-hook-form": "^6.14.2",
+    "theme-ui": "^0.3.5"
+  },
+  "scripts": {
+    "develop": "gatsby develop"
+  }
+}
