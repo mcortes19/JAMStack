@@ -8,6 +8,5 @@
   command = "yarn develop"
 [context."feature/preview".environment]
   GATSBY_ID = "987"
-
 [[plugins]]
   package = "netlify-plugin-gatsby-cache"
