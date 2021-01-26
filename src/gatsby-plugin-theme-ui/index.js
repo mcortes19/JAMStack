@@ -2,7 +2,7 @@ export default {
   useBorderBox: true,
   colors: {
     text: '#333',
-    background: '#fff',
+    background: 'yellow',
   },
   fonts: {
     body: 'sans-serif',
